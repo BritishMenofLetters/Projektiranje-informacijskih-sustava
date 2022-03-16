@@ -8,7 +8,6 @@ namespace Vjezba1
     {
         int metoda()
         {
-            return 4576;
-        }
-    }
+            return 0;
+        }    }
 }
