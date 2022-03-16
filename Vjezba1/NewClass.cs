@@ -6,6 +6,8 @@ namespace Vjezba1
 {
     class NewClass
     {
-        Console.WriteLine("Novo");
-    }
+        int metoda()
+        {
+            return 0;
+        }    }
 }
