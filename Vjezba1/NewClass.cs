@@ -6,6 +6,9 @@ namespace Vjezba1
 {
     class NewClass
     {
-        Console.WriteLine("Hello World!");
+        int metoda()
+        {
+            return 4576;
+        }
     }
 }
